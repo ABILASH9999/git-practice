@@ -1,3 +1,6 @@
 i am main user
 i am user1
 as a user2 i am writing the content
+i am user2
+.........
+as a user2 i am writing
